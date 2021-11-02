@@ -18,18 +18,18 @@
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=success&labelColor=grey">
 </p>
 
-<!--- ## :computer: Projeto
+<!-- ## :computer: Projeto -->
 
 ## :rocket: Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologia:
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-## :arrow_forward: Executando o projeto -->
+<!-- ## :arrow_forward: Executando o projeto -->
 
 ## :green_heart: Professor(a)
 [<img src="https://avatars.githubusercontent.com/u/13336905?v=4" width=115> <br> <sub>Gabriel Ramos</sub>](https://github.com/gabrieluizramos)
 | :---: |
 
-<!-- ## :memo: Licença
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes. -->
+## :memo: Licença
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
