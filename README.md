@@ -33,16 +33,24 @@ Estudos de:
    - Null e Undefined
    - Object
 
-**2. Mais tipos:**
+**2. Multiplos tipos com Build Types:**
+   - Void e Never
+   - Type Alias, Union e Intersection
+   - Type Assertions
 
 **3. Orientação a objeto:**
+   - Classes, Interfaces, Heranca e Modificadores de Acesso
 
 ## :rocket: Tecnologias
 Esse projeto foi desenvolvido com a seguinte tecnologia:
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-<!-- ## :arrow_forward: Executando o projeto -->
+## :arrow_forward: Executando o projeto
+No terminal, inicie o arquivo para retornar os valores:
+```
+$ node build/pasta/arquivo
+```
 
 ## :green_heart: Professor(a)
 [<img src="https://avatars.githubusercontent.com/u/13336905?v=4" width=115> <br> <sub>Gabriel Ramos</sub>](https://github.com/gabrieluizramos)
