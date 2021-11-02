@@ -18,7 +18,24 @@
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=success&labelColor=grey">
 </p>
 
-<!-- ## :computer: Projeto -->
+## :computer: Projeto
+Estudos de:
+
+**1. Tipos Básicos:**
+   - String
+   - Number
+   - Boolean
+   - Array
+   - Tupla
+   - Enum
+   - Any
+   - Unknown
+   - Null e Undefined
+   - Object
+
+**2. Mais tipos:**
+
+**3. Orientação a objeto:**
 
 ## :rocket: Tecnologias
 Esse projeto foi desenvolvido com a seguinte tecnologia:
